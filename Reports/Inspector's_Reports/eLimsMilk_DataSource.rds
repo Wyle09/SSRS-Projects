@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="eLimsMilk_DataSource">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=US08SQLP012\USELIMSMILK2;Initial Catalog=eLimsMilk</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>6554a02e-b432-4807-ab11-61fb37816462</DataSourceID>
+</RptDataSource>
